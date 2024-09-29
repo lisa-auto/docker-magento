@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b383877-1741-4d0c-81ce-d2bcd7288b17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/compose/compose.dev.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/compose/compose.dev.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compose/compose.healthcheck.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/compose/compose.healthcheck.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/compose/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/compose/compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compose/env/db.env" beforeDir="false" afterPath="$PROJECT_DIR$/compose/env/db.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compose/env/magento.env" beforeDir="false" afterPath="$PROJECT_DIR$/compose/env/magento.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,8 @@
       <workItem from="1727315740773" duration="2599000" />
       <workItem from="1727419492041" duration="2819000" />
       <workItem from="1727428449023" duration="1579000" />
-      <workItem from="1727572841365" duration="5954000" />
+      <workItem from="1727572841365" duration="6237000" />
+      <workItem from="1727594572284" duration="3335000" />
     </task>
     <servers />
   </component>
